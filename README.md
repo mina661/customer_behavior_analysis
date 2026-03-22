@@ -1,5 +1,5 @@
 # Customer Shopping Behavior Analysis
-A data analysis project that presents customer behavior analysis using python, sql, power bi
+A data analysis project that presents customer behavior analysis using python, sql, power bi.
 
 # 📌 Project Overview
 This project provides a comprehensive analysis of customer transactional data from 3,900 purchases. The goal is to identify key spending patterns, segment customers based on loyalty, and evaluate the impact of subscription statuses and discounts on total revenue. The insights generated are intended to guide strategic business decisions and optimize marketing efforts.
