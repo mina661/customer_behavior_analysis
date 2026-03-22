@@ -20,4 +20,16 @@ This project provides a comprehensive analysis of customer transactional data fr
 
 - Power BI: Created an interactive dashboard to visualize KPIs like Average Purchase Amount, Review Ratings, and Sales by Category.
  
+#  Project Structure
+   📓 notebook.ipynb
+   📄 queries.sql
+   📊 dashboard.pbix
 
+# How to Run
+1. Run the Jupyter Notebook
+2. Connect to SQL Server
+3. Open Power BI file
+
+4. # Contact
+5. LinkedIn: linkedin.com/in/mina-azer-240830371
+    └── 📋 ي
