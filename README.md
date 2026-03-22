@@ -32,4 +32,3 @@ This project provides a comprehensive analysis of customer transactional data fr
 
 4. # Contact
 5. LinkedIn: linkedin.com/in/mina-azer-240830371
-    └── 📋 ي
